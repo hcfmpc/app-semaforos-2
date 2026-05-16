@@ -1,0 +1,1 @@
+# Green Wave App - Lista de Tarefas (Setup & Implementação)
